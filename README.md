@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sandeep-svf
 - 👀 I’m interested in building Mobile Application.
-- 🌱 I’m currently learning spring Flutter, Dart.
+- 🌱 I’m currently learning Flutter, Dart.
 - 💞️ I’m looking to collaborate on Android Project.
 - 📫 How to reach me svf.sandeep@gmail.com
 
