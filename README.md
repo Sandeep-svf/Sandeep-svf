@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sandeep-svf
-- 👀 I’m interested in  Java EE and Android development
-- 🌱 I’m currently learning spring MVC , Spring boot.
-- 💞️ I’m looking to collaborate on java project.
+- 👀 I’m interested in building Mobile Application.
+- 🌱 I’m currently learning spring Flutter, Dart.
+- 💞️ I’m looking to collaborate on Android Project.
 - 📫 How to reach me svf.sandeep@gmail.com
 
 <!---
