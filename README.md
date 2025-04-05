@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sandeep-svf
-- 👀 I’m interested in building Mobile Application.
-- 🌱 I’m currently learning Flutter, Dart.
-- 💞️ I’m looking to collaborate on Android Project.
+- 👀 I’m interested in building Mobile Application and Web Application.
+- 💞️ I’m looking to collaborate on Mobile Applicaiton and Springboot Projects.
 - 📫 How to reach me svf.sandeep@gmail.com
 
 <!---
